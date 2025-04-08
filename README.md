@@ -4,10 +4,7 @@ Aqui estão os desafios do LeetCode que eu resolvi, com o nome do problema, o no
 
 | 🧩 Problema         | 📄 Arquivo              | ⏱️ Tempo Ideal (LeetCode) | ⚡ Meu Tempo |
 |--------------------|-------------------------|----------------------------|--------------|
-| Two Sum            | `two_sum.py`            | 36 ms                      | 40 ms        |
-| Add Two Numbers    | `add_two_numbers.py`    | 50 ms                      | 52 ms        |
-| Valid Parentheses  | `valid_parentheses.py`  | 24 ms                      | 28 ms        |
-| Merge Intervals    | `merge_intervals.py`    | 48 ms                      | 49 ms        |
+| Two Sum            | `two_sum.py`            | 01 ms                      | 01 ms        |
 
 ---
 
