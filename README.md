@@ -5,6 +5,7 @@ Aqui estão os desafios do LeetCode que eu resolvi, com o nome do problema, o no
 | 🧩 Problema         | 📄 Arquivo              | ⏱️ Tempo Ideal (LeetCode) | ⚡ Meu Tempo |
 |--------------------|-------------------------|----------------------------|--------------|
 | Two Sum            | `two_sum.py`            | 01 ms                      | 01 ms        |
+| Binary Search      | `binary_search.py`      | 01 ms                      | 01 ms        |
 
 ---
 
